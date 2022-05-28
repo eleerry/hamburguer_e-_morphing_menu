@@ -1,2 +1,6 @@
-# hamburguer_e_morphing_menu
-hamburguer e morphing menu
+# Landing Page
+Create a landing page portfolio
+
+## Technologies used
+ - HTML
+ - CSS
