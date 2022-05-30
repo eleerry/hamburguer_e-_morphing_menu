@@ -290,3 +290,14 @@ h2{
     opacity: 1;
     visibility: visible;
 }
+
+/* FOOTER */
+
+.footer{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1fa194;
+}
